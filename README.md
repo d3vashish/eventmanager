@@ -31,8 +31,8 @@ This project is a backend system for a virtual event management platform. It fea
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/virtual-event-management.git
-   cd virtual-event-management
+   git clone https://github.com/d3vashish/eventmanager.git
+   cd eventmanager
    ```
 
 2. Install the dependencies:
@@ -42,7 +42,7 @@ This project is a backend system for a virtual event management platform. It fea
 
 3. Start the server:
    ```sh
-   npm run dev
+   node app.js
    ```
 
 ## Usage
